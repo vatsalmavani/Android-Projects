@@ -8,3 +8,4 @@ This repository will contain all the mini-projects I make while learning android
 4. Animations
 5. Lottie
 6. Listapp
+7. Scrollable CardView
