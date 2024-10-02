@@ -12,6 +12,6 @@ This repository will contain all the mini-projects I make while learning android
 8. Custom ListView
 9. Contact List: milestone project 1
 10. RecyclerView
-    * RecyclerView
-    * RecyclerViewTwo
+    * RecyclerView: ListView
+    * RecyclerViewTwo: Horizontally scrollable staggered grid view
 11. CRUD RecyclerView
