@@ -10,8 +10,7 @@ This repository will contain all the mini-projects I make while learning android
 6. Listapp
 7. Scrollable CardView
 8. Custom ListView
-9. Contact List: milestone project 1
-10. RecyclerView
+9. RecyclerView
     * RecyclerView: ListView
     * RecyclerViewTwo: Horizontally scrollable staggered grid view
-11. CRUD RecyclerView
+10. Toast and Snackbar
